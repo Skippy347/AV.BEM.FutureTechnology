@@ -4,13 +4,15 @@
   "main": "index.js",
   "scripts": {
     "prettier": "prettier --check .",
-    "prettier:fix": "prettier --write ."
+    "prettier:fix": "prettier --write .",
+    "prepare": "husky"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "description": "",
   "devDependencies": {
+    "husky": "^9.1.7",
     "prettier": "^3.4.2"
   }
 }
