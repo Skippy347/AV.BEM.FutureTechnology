@@ -5,6 +5,7 @@
   "scripts": {
     "prettier": "prettier --check .",
     "prettier:fix": "prettier --write .",
+    "sass:watch": "sass --watch styles/main.scss:./styles/css/main.css",
     "prepare": "husky"
   },
   "keywords": [],
@@ -13,6 +14,7 @@
   "description": "",
   "devDependencies": {
     "husky": "^9.1.7",
-    "prettier": "^3.4.2"
+    "prettier": "^3.4.2",
+    "sass": "^1.83.4"
   }
 }
