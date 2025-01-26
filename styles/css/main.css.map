@@ -1,1 +1,1 @@
-{"version":3,"sourceRoot":"","sources":[],"names":[],"mappings":"","file":"main.css"}
+{"version":3,"sourceRoot":"","sources":["../_normalize.scss"],"names":[],"mappings":"AAAA;EACE;;;AAGF;AAAA;AAAA;EAGE;;;AAGF;AAAA;AAAA;AAAA;EAIE;;;AAGF;AAAA;AAAA;AAAA;AAAA;AAAA;EAME;;;AAGF;EACE;;;AAGF;EACE;;AAEA;EAEE;;;AAIJ;AAAA;EAEE;EACA;EACA;;;AAGF;AAAA;EAEE;EACA;EACA","file":"main.css"}
