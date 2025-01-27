@@ -1,0 +1,22 @@
+@use "helpers" as *;
+
+body {
+  @include fluid-font-size(18, 14);
+
+  font-family: var(--font-family-base);
+
+  letter-spacing: -0.03em;
+
+  color: var(--color-gray-50);
+  background-color: var(--color-dark);
+}
+
+a,
+button,
+label,
+input,
+textarea,
+select,
+svg * {
+  transition-duration: var(--transition-duration);
+}
