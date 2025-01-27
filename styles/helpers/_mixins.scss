@@ -1,7 +1,7 @@
-@use "functions" as *;
+@use "functions";
 
 @mixin fluid-font-size($max: 48, $min: 16) {
-  font-size: fluid($max, $min);
+  font-size: functions.fluid($max, $min);
 }
 
 @mixin square-dimensions($size) {
